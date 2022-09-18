@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **to build no code websites, workflow automations.**
 
-- 👨‍💻 All of my projects are available at [utksh.webflow.io]((https://utksh.webflow.io)
+- 👨‍💻 All of my projects are available at [utksh.webflow.io] (https://utksh.webflow.io)
 
 - 💬 **Core Competency in Data Science, Computational Mathematics and Statistics.**
 
