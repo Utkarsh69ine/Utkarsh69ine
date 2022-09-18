@@ -2,11 +2,11 @@
 <h3 align="center">I am an aspiring Data Scientist highly enthusiastic in learning new things.</h3>
 
 
-- 🔭 I’m currently working on [a decentralized information markets platform.](thehodl.webflow.io)
+- 🔭 I’m currently working on [a decentralized information markets platform.](https://thehodl.webflow.io/)
 
 - 🌱 I’m currently learning **to build no code websites, workflow automations.**
 
-- 👨‍💻 All of my projects are available at [utksh.webflow.io](utksh.webflow.io)
+- 👨‍💻 All of my projects are available at [utksh.webflow.io]((https://utksh.webflow.io)
 
 - 💬 **Core Competency in Data Science, Computational Mathematics and Statistics.**
 
