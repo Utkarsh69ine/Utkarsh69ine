@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sharma.utk@proton.me**
 
-- 📄 Resume [https://drive.google.com/file/d/1hZbD28rcUnuruUTqj2reyn6C5dLSc0uh/view?usp=sharing](https://drive.google.com/file/d/1hZbD28rcUnuruUTqj2reyn6C5dLSc0uh/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1hZbD28rcUnuruUTqj2reyn6C5dLSc0uh/view?usp=sharing](https://drive.google.com/file/d/1LvZ9MA_-uyY2A6Bx9lMTECAUl_ATrMoW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
