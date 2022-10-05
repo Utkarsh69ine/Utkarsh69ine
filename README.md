@@ -29,4 +29,27 @@
 ![](https://github-readme-stats.vercel.app/api?username=Utkarsh69ine&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh69ine&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh69ine&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Utkarsh69ine&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://paypal.me/@sharmautk" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/youtk" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlyqha6juvh27jcb6ae7ui7cnu&cover_image=true&theme=compact&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qlyqha6juvh27jcb6ae7ui7cnu&redirect=true)
 
