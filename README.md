@@ -51,5 +51,5 @@
             </a></div>
 <br />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlyqha6juvh27jcb6ae7ui7cnu&cover_image=true&theme=compact&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qlyqha6juvh27jcb6ae7ui7cnu&redirect=true)
+
 
