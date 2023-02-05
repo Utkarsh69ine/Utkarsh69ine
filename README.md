@@ -14,16 +14,50 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1hZbD28rcUnuruUTqj2reyn6C5dLSc0uh/view?usp=sharing](https://drive.google.com/file/d/1LvZ9MA_-uyY2A6Bx9lMTECAUl_ATrMoW/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/utkarsh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh sharma" height="30" width="40" /></a>
-<a href="https://kaggle.com/youtk_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youtk_sh" height="30" width="40" /></a>
-<a href="https://instagram.com/youtk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youtk_" height="30" width="40" /></a>
-<a href="https://medium.com/@youtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@youtk" height="30" width="40" /></a>
-</p>
+# 🤖 AI Engineer Tech Stack 💻
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 💻 Programming Languages 💻
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="64"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" width="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="64">
+
+---
+
+## 🚀 Deep Learning Frameworks 🚀
+
+<img src="https://github.com/tensorflow/tensorflow/blob/main/tensorflow/lite/g3doc/images/tensorflow-logo.png" width="64"> <img src="https://keras.io/img/logo.png" width="64"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="64">
+
+---
+
+## 🧠 Data Science Tools 🧠
+
+<img src="https://numpy.org/images/logos/numpy.svg" width="64"> <img src="https://pandas.pydata.org/_static/pandas_logo.png" width="64"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="64">
+
+---
+
+## 🌤️ Cloud Services 🌤️
+
+<img src="https://aws.amazon.com/sagemaker/resources/images/AWS_SageMaker_Logo_RGB.png" width="64"> <img src="https://cloud.google.com/_static/images/cloud/products/ai-platform/icon.png" width="64"> <img src="https://docs.microsoft.com/en-us/azure/machine-learning/media/concept-azure-machine-learning/aml-icon-light.png" width="64">
+
+---
+
+## 🔧 Software Engineering 🔧
+
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="64">
+
+---
+
+## 📈 Methodologies 📈
+
+- Agile Development
+- Model version control
+- Test-driven Development (TDD)
+
+---
+
+💡 **Note:** This tech stack is by no means exhaustive, but it showcases the core skills that I have developed as an AI engineer. I am always eager to learn and expand my skill set to stay updated with the latest advancements in the field of AI.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Utkarsh69ine&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
