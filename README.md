@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **to build no code websites, workflow automations.**
 
-- 👨‍💻 All of my projects are available at [utksh.webflow.io] (https://utksh.webflow.io)
+- 👨‍💻 All of my projects are available at (https://utksh.webflow.io)
 
 - 💬 **Core Competency in Data Science, Computational Mathematics and Statistics.**
 
@@ -14,61 +14,21 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1hZbD28rcUnuruUTqj2reyn6C5dLSc0uh/view?usp=sharing](https://drive.google.com/file/d/1LvZ9MA_-uyY2A6Bx9lMTECAUl_ATrMoW/view?usp=sharing)
 
-# 🤖 AI Engineer Tech Stack 💻
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youtk_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@youtk) 
 
-## 💻 Programming Languages 💻
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="64"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1024px-Java_programming_language_logo.svg.png" width="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="64">
-
----
-
-## 🚀 Deep Learning Frameworks 🚀
-
-<img src="https://github.com/tensorflow/tensorflow/blob/main/tensorflow/lite/g3doc/images/tensorflow-logo.png" width="64"> <img src="https://keras.io/img/logo.png" width="64"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="64">
-
----
-
-## 🧠 Data Science Tools 🧠
-
-<img src="https://numpy.org/images/logos/numpy.svg" width="64"> <img src="https://pandas.pydata.org/_static/pandas_logo.png" width="64"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="64">
-
----
-
-## 🌤️ Cloud Services 🌤️
-
-<img src="https://aws.amazon.com/sagemaker/resources/images/AWS_SageMaker_Logo_RGB.png" width="64"> <img src="https://cloud.google.com/_static/images/cloud/products/ai-platform/icon.png" width="64"> <img src="https://docs.microsoft.com/en-us/azure/machine-learning/media/concept-azure-machine-learning/aml-icon-light.png" width="64">
-
----
-
-## 🔧 Software Engineering 🔧
-
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="64">
-
----
-
-## 📈 Methodologies 📈
-
-- Agile Development
-- Model version control
-- Test-driven Development (TDD)
-
----
-
-💡 **Note:** This tech stack is by no means exhaustive, but it showcases the core skills that I have developed as an AI engineer. I am always eager to learn and expand my skill set to stay updated with the latest advancements in the field of AI.
-
-
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Utkarsh69ine&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh69ine&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh69ine&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Utkarsh69ine&&style=flat-square" align="center" />
-</div>  
-  
+![](https://github-readme-stats.vercel.app/api?username=utkarsh69ine&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh69ine&theme=maroongold&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh69ine&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<br/>  
+---
+[![](https://visitcount.itsvg.in/api?id=utkarsh69ine&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
 
 <div align="center">
             <a href="https://paypal.me/@sharmautk" target="_blank" style="display: inline-block;">
