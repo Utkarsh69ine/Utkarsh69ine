@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sharma.utk@proton.me**
 
-- 📄 Resume [https://drive.google.com/file/d/1hZbD28rcUnuruUTqj2reyn6C5dLSc0uh/view?usp=sharing](https://drive.google.com/file/d/1qWhmgBCoUqci_OLgSrUBGyt0fZnBjvWR/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/13t3KYBoSbbxa_4zPeRn2Mp4l5xAUJC9e/view?usp=sharing](https://drive.google.com/file/d/1qWhmgBCoUqci_OLgSrUBGyt0fZnBjvWR/view?usp=sharing)
 
 
 ## 🌐 Socials:
