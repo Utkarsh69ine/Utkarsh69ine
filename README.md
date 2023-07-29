@@ -22,7 +22,7 @@
   <h2 style="font-size: 28px; margin-top: 30px; margin-bottom: 10px;">📚 About Me</h2>
   <p style="font-size: 16px;">Greetings! I am Utkarsh Sharma, on a quest to unravel the secrets hidden within data. My passion for deciphering patterns and extracting insights led me to become an enthusiastic Full Stack Data Scientist. My journey in the world of data has been thrilling, with a focus on Artificial Intelligence, Deep Learning, and Machine Learning. I am dedicated to utilizing data-driven discoveries to make a tangible impact on various fields.</p>
 
- 📄 Resume [https://drive.google.com/file/d/13t3KYBoSbbxa_4zPeRn2Mp4l5xAUJC9e/view?usp=sharing](https://drive.google.com/file/d/1qWhmgBCoUqci_OLgSrUBGyt0fZnBjvWR/view?usp=sharing)
+ 📄 Resume [https://drive.google.com/file/d/13t3KYBoSbbxa_4zPeRn2Mp4l5xAUJC9e/view?usp=sharing](https://drive.google.com/file/d/1aXzWGWytomyZ8CvMDguiUppUBx6epHs9/view?usp=sharing)
  
 </div>
 <div align="center">
