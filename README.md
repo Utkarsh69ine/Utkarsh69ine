@@ -27,7 +27,8 @@
 </div>
 <div align="center">
   <h2 style="font-size: 28px; margin-top: 30px; margin-bottom: 10px;">🔭 Current Projects</h2>
-  <p style="font-size: 16px;">Currently, I am immersed in an exciting project that revolves around creating a cutting-edge decentralized information markets platform. This endeavor aims to redefine the exchange of information, providing secure and verifiable access and trade of valuable insights, all powered by state-of-the-art data science techniques and innovative blockchain technology. Additionally, I am honing my skills in crafting no-code websites and streamlining data workflows to elevate productivity.</p>
+  <p style="font-size: 16px;">
+Currently, I'm passionately involved in an innovative project: "Smart Parking System - An Automated Solution for Efficient Parking Management and Traffic Control." Leveraging cutting-edge object detection algorithms, we aim to revolutionize the way parking is managed, ensuring seamless and stress-free experiences for drivers while optimizing traffic flow.</p>
 </div>
 <div align="center">
   <h2 style="font-size: 28px; margin-top: 30px; margin-bottom: 10px;">💻 Tech Stack</h2>
